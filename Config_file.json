@@ -2,7 +2,7 @@
   "live" : false,
   "full" : false,
   "partial" : false,
-  "ShowAds" : true,
+  "ShowAds" : false,
   "icon_url" : "https://play-lh.googleusercontent.com/Fd4Fk_D17i-kZPQmjwBuoJQt426gz_sLJ2Glx0nse6A5LDWMTGbjBwEyap6FP1edjA=w512-h512-rw",
   "Big_image" : "https://play-lh.googleusercontent.com/YW8Rb4L7v3brtPVc39E9abyNJIJMTV4gJ9gK051rhWN3pKxZ3LOXyIy2jEcEGhD-AQc=w5120-h2880-rw",
   "link" : "https://play.google.com/store/apps/details?id=com.expressdigital.expressnews",

@@ -1,5 +1,5 @@
 {
-  "Full" : true,
-  "Live" : true,
+  "live" : true,
+  "full" : true,
   "partial" : true
 }

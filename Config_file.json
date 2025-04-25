@@ -1,1 +1,5 @@
-{}
+{
+  Full = true,
+  Live = true,
+  partial = true
+}

@@ -1,5 +1,11 @@
 {
   "live" : false,
   "full" : false,
-  "partial" : false
+  "partial" : false,
+  "ShowAds" : true,
+  "icon_url" : "",
+  "Big_image" : "",
+  "link" : "",
+  "title_text": "",
+  "description_text" :""
 }
